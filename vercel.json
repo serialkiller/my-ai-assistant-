@@ -1,4 +1,7 @@
 {
+  {
+  "outputDirectory": "." // Or "." for root directory
+  }
   "functions": {
     "api/chat.js": {
       "maxDuration": 30
