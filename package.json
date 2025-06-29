@@ -1,0 +1,11 @@
+{
+  "name": "personal-ai-assistant",
+  "version": "1.0.0",
+  "description": "Personal AI Assistant Web App",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'",
+    "deploy": "vercel --prod"
+  }
+}
